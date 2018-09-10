@@ -1,5 +1,5 @@
 # Tube gel digestion
-### Developed by Dawn Moran in the Saito Lab and adapted for phosphoproteomics by Noelle Held. See also Lu and Zhu Mol Cel Proteomics 2005
+### Developed in the Saito Lab and adapted for phosphoproteomics by Noelle Held. See also Lu and Zhu Mol Cel Proteomics 2005
 
 ### Key concerns: avoid acidic pH and high temperatures, as these can destroy the delicate phosphopeptide bond. Consider also avoiding the use of DTT, which inactivates the phosphatase inhibitor sodium orthovanadate
 
@@ -15,10 +15,13 @@ Make everything in LCMS grade H2O, use only LCMS grade reagents
 * gel destain solution
 * 50/50 wash
 * LCMS grade acetonitrile
-* DTT (make fresh solution)
-* Ambic
-* Ioda
+* 10mM DTT in ambic 25 (make fresh solution) (1.55mg/mL)
+* Ambic 25
+* 55mM Ioda in ambic 25 (9.3mg/mL)
 * 500mM solutions of sodium pyrophosate, sodium fluoride, and activated sodium orthovanadate in LCMS grade water
+* TEMED (full concentration)
+* 1% ammonium persulfate
+* bis-acryl L
 
 
 ### Preparation
@@ -37,9 +40,10 @@ Make everything in LCMS grade H2O, use only LCMS grade reagents
 |        |                      |                           |                              | 103uL  | 2uL                  | 2uL             | 2uL                  | 7uL    | 3uL   |           | 200uL        |
 ### Protocol
 * Place sample in clean 0.5mL tube, then add phosphatase inhibitors and TE buffer in volume recorded above (such that final volume is 200uL)
-* Add TEMED and APS, vortex speed 3 and and mix by pipetting
+* Add the Premix
+* Add TEMED and APS, vortex speed 3 and and mix by pipetting. Work quickly.
 * Allow to polymerize in thermomixer 1hr at 20C. START:
-* Add 200uL gel fix solution, incubate RT 20min
+* Add 200uL gel fix solution to gels, incubate RT 20min
 * Remove liquid, transfer gels to 2mL tubes
 * fix in 1200-1600uL gel fix solution (enough to cover) at RT 350RPM for 1 hr. START:
 * Remove liquid, add 1600uL destain solution an dincubate 2hrs RT 350RPM. START:
